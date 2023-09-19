@@ -1,0 +1,12 @@
+/* CSS for the WhatsApp Chat Button */
+
+#whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+}
+
+#whatsapp-button a img {
+    max-width: 50px;
+}
